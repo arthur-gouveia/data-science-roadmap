@@ -53,6 +53,14 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # P
 
+# Q
+
+**Quartil**: Intervalo de valores que contém aproximadamente 25% dos dados. O primeiro quartil (Q1) é um número maior que 25% dos dados; o segundo quartil (Q2) é um número maior que 50% dos dados e o terceiro quartil (Q3) é um número maior que 75% dos dados.
+
+Referências:
+[[1]](http://www.portalaction.com.br/estatistica-basica/23-quartis)
+[[2]](https://support.minitab.com/pt-br/minitab/18/help-and-how-to/graphs/how-to/boxplot/interpret-the-results/quartiles/)
+
 # R
 **Regressão Linear**: conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a a função linear resultante e os dados. [Referência](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
 
